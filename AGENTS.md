@@ -1,4 +1,4 @@
-# Agent Instructions
+# Agent Instructions 
 
 ## Dev Environment
 - Use pnpm for all package management (not npm or yarn)
